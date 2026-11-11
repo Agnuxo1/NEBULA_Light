@@ -4,6 +4,10 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)](https://pytorch.org/)
 
+<!-- impact-note:start -->
+<sub><strong>Efficiency and practical value.</strong> NEBULA Light brings optical-inspired propagation, tissue-interaction modeling and dataset processing into medical-imaging experiments. Its potential advantage is to expose physical assumptions alongside learned prediction, helping researchers investigate which representations are useful. The <a href="NEBULA_LUZ_SCIENTIFIC_FOUNDATION.md">scientific foundation</a> and reusable processing modules support comparative studies; clinical accuracy and hardware-efficiency gains require task-specific measurements.</sub>
+<!-- impact-note:end -->
+
 ## Overview
 
 NEBULA (Neural Electromagnetic Beam-tracing for Universal Learning Architecture) is a physics-based medical imaging framework that simulates electromagnetic wave propagation through biological tissues for automated pathology detection. Unlike conventional deep learning approaches, NEBULA implements real optical physics principles including ray-tracing, electromagnetic field interactions, and quantum mechanical effects.
